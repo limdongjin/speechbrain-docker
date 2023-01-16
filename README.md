@@ -10,3 +10,5 @@ speechbrain docker image
 
 1 GB
 
+https://hub.docker.com/r/limdongjin/speechbrain-cpu
+
